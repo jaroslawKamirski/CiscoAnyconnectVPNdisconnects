@@ -1,0 +1,8 @@
+Since IBM service desk could not resolve the issue with VPN:
+
+Cisco Anyconnect can not connect to secure gateways issue
+
+Many of You and I could randomly encounter for weeks – I have found solution.
+
+On win 7 please go co  Start > Click Computer to see Manage (right click) – then  Services and Applications > Services > 
+then search for ICS – Internet Connection Sharing and STOP it and also set startup type to DISABLED. 
